@@ -1,0 +1,16 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/cab/register/driver/3
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"cabNumber\" : \"MP07MM0557\",\r
+
+    \    \"cabModel\" : \"Scorpio\",\r
+
+    \    \"perKmRate\" : 10\r
+
+    }"
+order: 4500892560263101

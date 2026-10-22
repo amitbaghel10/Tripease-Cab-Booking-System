@@ -1,0 +1,8 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/booking/book/customer/3
+method: POST
+body:
+  type: json
+  content: ""
+order: 4503097422306730

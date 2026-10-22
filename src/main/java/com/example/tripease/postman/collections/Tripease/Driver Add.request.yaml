@@ -1,0 +1,18 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/driver/add
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\" : \"Prajval\",\r
+
+    \    \"age\" : 24,\r
+
+    \    \"emailId\" : \"Prajval@gmail.com\"\r
+
+    \r
+
+    }"
+order: 4502879954195560

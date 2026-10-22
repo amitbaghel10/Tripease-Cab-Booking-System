@@ -1,0 +1,14 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/customer/get-by-age-greater?gender=MALE&age=25
+method: GET
+queryParams:
+  - key: gender
+    value: MALE
+    disabled: false
+    description: ""
+  - key: age
+    value: "25"
+    disabled: false
+    description: ""
+order: 4498813377837075

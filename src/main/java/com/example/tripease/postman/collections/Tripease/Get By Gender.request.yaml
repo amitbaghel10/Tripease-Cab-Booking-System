@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/customer/get/customer-gender/FEMALE
+method: GET
+order: 4486890716814458

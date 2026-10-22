@@ -1,0 +1,10 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/customer/get-by-emailId?email=Harry@gmail.com
+method: GET
+queryParams:
+  - key: email
+    value: Harry@gmail.com
+    disabled: false
+    description: ""
+order: 4451453630721495

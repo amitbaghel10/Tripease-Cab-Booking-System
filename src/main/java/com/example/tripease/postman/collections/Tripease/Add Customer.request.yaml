@@ -1,0 +1,20 @@
+$kind: http-request
+description: ""
+url: http://localhost:8080/customer/add
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \r
+
+    \    \"name\" :\"Lalit\",\r
+
+    \    \"age\" : 21,\r
+
+    \    \"emailId\" : \"Lalit@gmail.com\",\r
+
+    \    \"gender\" : \"MALE\"\r
+
+    }"
+order: 4304787042741157
